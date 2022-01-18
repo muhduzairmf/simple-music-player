@@ -3,7 +3,7 @@
 ![Simple Music Player](banner.png)      
 
 
-This is a simple music player app that runs in the browser. All the musics is currently available from the local direcctory, there is not obtained from any external servers or APIs.     
+This is a simple music player app that runs in the browser. All the musics is currently available from the local directory (`/public/musics`), there is not obtained from any external servers or APIs.     
 
 Thanks to the [Chris/Coding in Public](https://github.com/coding-in-public) to guide this tutorial, which is I followed along the [Audio Music Player Playlist](https://www.youtube.com/playlist?list=PLoqZcxvpWzzcxbClFwRIMjj_mYuAqNKku) from his YouTube channel.     
 
